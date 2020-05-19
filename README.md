@@ -19,7 +19,5 @@ A classic 5-stage pipeline MIPS 32-bit processor, including a 2-bit branch predi
 
 This MIPS processor is implemented according to "Computer Organization and Design" by David A.Patternson & John L.Hennsessy.
 
-![MIPS architecture with pipeline mechanism, hazard detection and bypass unit. 
-This architecture can execute format-R instructions, as well as load and 
-store instructions.](https://imgur.com/3dVnS0S)
+![hello](https://ibb.co/mSqyTnY)
 
